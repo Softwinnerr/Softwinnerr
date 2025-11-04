@@ -48,9 +48,3 @@ Mobile Developer · UI/UX Designer · Data Scientist (in progress)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
----
-
-<p align="center">
-✨ Forever learning. Always building.<br/>
-Let’s turn ideas into real-world products!
-</p>
