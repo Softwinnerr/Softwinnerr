@@ -68,12 +68,6 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
----
 
-## 💬 About Me
-- 🇨🇦 Based in Canada  
-- 🎓 Data Science student (in progress)  
-- 💡 Passionate about **mobile development, design, and intelligent systems**  
-- 🚀 Always learning, always building!  
 
 
