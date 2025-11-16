@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jeremie 👋</h1>
 <p align="center">
-  Mobile Developer · UI/UX Designer · Data Scientist (in progress)
+  Mobile Development · UI/UX Design · Data Science
 </p>
 
 ---
