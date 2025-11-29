@@ -2,7 +2,6 @@
 <p align="center">
   Mobile Development · UI/UX Design · Data Science
 </p>
----
 
 ## 🔗 Connect with me
 <p align="center">
